@@ -5,4 +5,5 @@ functions:
   starter:
     lang: python3-armhf
     handler: ./starter
-    image: starter:latest
+    image: alexellis/starter:latest
+
